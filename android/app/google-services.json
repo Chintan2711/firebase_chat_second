@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903805881454",
+    "project_id": "fir-chat-second-7215f",
+    "storage_bucket": "fir-chat-second-7215f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903805881454:android:6501b21dc31bd937cc2a7f",
+        "android_client_info": {
+          "package_name": "com.app.firebase_chat_second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903805881454-5ntnrka6qufljsse6risi5npaii861jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYAlpVgE9zXJqMFRC6bm_ebkqYEkai5Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903805881454-5ntnrka6qufljsse6risi5npaii861jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
